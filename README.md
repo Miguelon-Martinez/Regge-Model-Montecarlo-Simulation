@@ -1,5 +1,5 @@
 # Regge-Model-Montecarlo-Simulation
-This repository contains a Monte Carlo simulation for studying the angular distribution in single meson photoproduction reactions of the form p + γ → meson + p.
+This repository contains a Monte Carlo simulation for studying the angular distribution in single meson photoproduction reactions of the form p + γ → π + p.
 
 The simulation incorporates beam asymmetry effects and utilizes a differential cross section derived from a Regge model, specifically based on the framework detailed in the publication:
 
